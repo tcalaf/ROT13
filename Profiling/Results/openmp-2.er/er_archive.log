@@ -1,0 +1,18 @@
+### Start Thu Dec  9 23:02:01 2021
+# /opt/tools/compilers/solarisstudio12.5/bin/../bin/er_archive -n -O /export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/er_archive.log /export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er
+Copying `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/rot13_openmp'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/rot13_openmp_aIxb4ufSbic'
+Copying `/usr/lib64/ld-2.17.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/ld-2.17.so_OCEC1bthLm2'
+Copying `/opt/tools/compilers/solarisstudio12.5/lib/analyzer/amd64/runtime/libcollector.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/libcollector.so_WpdlUcvH4C7'
+Copying `/opt/tools/compilers/gnu/6.2.0/lib64/libgomp.so.1.0.0'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/libgomp.so.1.0.0_KCsgk2UCTH5'
+Copying `/usr/lib64/libpthread-2.17.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/libpthread-2.17.so_OCEC1bthLm2'
+Copying `/usr/lib64/libc-2.17.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/libc-2.17.so_OCEC1bthLm2'
+Copying `/usr/lib64/libdl-2.17.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/libdl-2.17.so_OCEC1bthLm2'
+Copying `/usr/lib64/librt-2.17.so'
+  to `/export/home/acs/stud/t/tudor.calafeteanu/APP/ROT13/test.1.er/archives/librt-2.17.so_OCEC1bthLm2'

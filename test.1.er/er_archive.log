@@ -1,0 +1,18 @@
+### Start Tue Jan 18 21:25:29 2022
+# /root/OracleDeveloperStudio12.5-linux-x86-bin/developerstudio12.5/bin/../bin/er_archive -n -O /root/ROT13/test.1.er/er_archive.log /root/ROT13/test.1.er
+Copying `/root/ROT13/rot13_openmp'
+  to `/root/ROT13/test.1.er/archives/rot13_openmp_e-Ijrit6lp3'
+Copying `/usr/lib64/librt-2.28.so'
+  to `/root/ROT13/test.1.er/archives/librt-2.28.so_OCEC1bthLm2'
+Copying `/usr/lib64/libdl-2.28.so'
+  to `/root/ROT13/test.1.er/archives/libdl-2.28.so_OCEC1bthLm2'
+Copying `/usr/lib64/libc-2.28.so'
+  to `/root/ROT13/test.1.er/archives/libc-2.28.so_OCEC1bthLm2'
+Copying `/usr/lib64/libpthread-2.28.so'
+  to `/root/ROT13/test.1.er/archives/libpthread-2.28.so_OCEC1bthLm2'
+Copying `/usr/lib64/libgomp.so.1.0.0'
+  to `/root/ROT13/test.1.er/archives/libgomp.so.1.0.0_OCEC1bthLm2'
+Copying `/root/OracleDeveloperStudio12.5-linux-x86-bin/developerstudio12.5/lib/analyzer/amd64/runtime/libcollector.so'
+  to `/root/ROT13/test.1.er/archives/libcollector.so_nwn7qVV8MB7'
+Copying `/usr/lib64/ld-2.28.so'
+  to `/root/ROT13/test.1.er/archives/ld-2.28.so_OCEC1bthLm2'
